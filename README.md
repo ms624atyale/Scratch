@@ -5,38 +5,9 @@
 
 |  | Sessions | Keywords |
 |:--|:---|:---:|
-| 1 | Things you need to know about Python | 🔩 [Python Basics](https://github.com/ms624atyale/Scratch/blob/main/Python_Basics.ipynb) |  
-| 2 | Creating formatted texts [Markdown Language] | 🔍 [Hide&Expose using the markdown function](https://github.com/ms624atyale/Scratch/blob/main/Markdown1_Hide%26Expose_ModifiedfromMK316.ipynb); 🖊️  [Formatting a text cell](https://github.com/ms624atyale/Scratch/blob/main/TextCells_Format_ModifiedfromMK316.ipynb); 🖱️ [Formatting a code cell](https://github.com/ms624atyale/Scratch/blob/main/CodeCells_Basic_.ipynb)|
-| 3 | Sample coding for Python | 🎒 [Simple algebra]();  📖 [Vocabulary drills]();  🔉 [Pronuciation drills](https://github.com/ms624atyale/Scratch/blob/main/Markdown3_Text2Speech_ModifiedfromMK316.ipynb) |  
+| 1 | Things you need to know about Python | 🐤 [Python Basics](https://github.com/ms624atyale/Scratch/blob/main/Python_Basics.ipynb) |  
+| 2 | Creating formatted texts [Markdown Language] | 🐤 [Hide&Expose using the markdown function](https://github.com/ms624atyale/Scratch/blob/main/Markdown1_Hide%26Expose_ModifiedfromMK316.ipynb); 🐣 [Formatting a text cell](https://github.com/ms624atyale/Scratch/blob/main/TextCells_Format_ModifiedfromMK316.ipynb); 🐥 [Formatting a code cell](https://github.com/ms624atyale/Scratch/blob/main/CodeCells_Basic_.ipynb)|
+| 3 | Sample coding for Python | 🐠 [Simple algebra]();  🐬 [Vocabulary drills]();  🐳  [Pronuciation drills](https://github.com/ms624atyale/Scratch/blob/main/Markdown3_Text2Speech_ModifiedfromMK316.ipynb) |  
 
 
 # Good Job! Here is your rewards! Have fun! :icecream::tropical_drink::cake::apple::watermelon:
-
-
-
-## :b::hamster::paw_prints: Markdown Basics
-### Markup language > Markdown language
-- **Markup** refers to data included in an electronic document which is distinct from the document's content in that it is typically not included in representations of the document for end users
-- A **markup language** ([Markup Language from wikipedia](https://en.wikipedia.org/wiki/Markup_language)) is a set of rules governing what markup information may be included in a document and how it is combined with the content of the document in a way to facilitate use by humans and computer programs.
-- The idea and terminology evolved from the **"marking up"** of paper manuscripts (i.e., the revision instructions by editors 편집자 수정지침).
-- **Markdown** ([Markdown from wikipedia](https://en.wikipedia.org/wiki/Markdown)) is a lightweight markup language for creating formatted text using a plain-text editor (_John Gruber and Aaron Swartz created Markdown_, 2004). 
-- Markdown codes can be applied to **README.md** as well as **Colab.ipynb**.
-- Proper use of the markdown language can facilitate user's readability.    
-
-## :three::hamster::paw_prints: More on Code lines1: Simple algebra
-
-
-
-
-
-
-## :four::hamster::paw_prints: More on Code lines2: Vocabulary drills
-
-
-
-
-
-
-## :five::hamster::paw_prints: More on Code lines2: Pronuciation drills
-
-Python Baskics
