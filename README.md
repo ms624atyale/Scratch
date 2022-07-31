@@ -1,9 +1,9 @@
 # Scratch
 
-## :a::hamster::paw_prints: [Python Basics](https://github.com/ms624atyale/Scratch/blob/main/Python_Basics.ipynb) 
+## :a::hamster::paw_prints: Python Language
 ## **Learning Python** using **Colab** ([Visit Colab homepage](https://colab.research.google.com/?utm_source=scs-index)) and **Github** ([Visit Github homepage](https://github.com/))
 
-|  | Keywords |
+|  | Sessions | Keywords |
 |:--|:---|:---:|
 | 1 | What you need to know about Python language | [Python Basics](https://github.com/ms624atyale/Scratch/blob/main/Python_Basics.ipynb)) |  
 | 2 | Creating formatted texts [Markdown Language] | [Hide&Expose using the markdown function](https://github.com/ms624atyale/Scratch/blob/main/Markdown1_Hide%26Expose_ModifiedfromMK316.ipynb); [Formatting a text cell](https://github.com/ms624atyale/Scratch/blob/main/TextCells_Format_ModifiedfromMK316.ipynb); [Formatting a code cell](https://github.com/ms624atyale/Scratch/blob/main/CodeCells_Basic_.ipynb)|
