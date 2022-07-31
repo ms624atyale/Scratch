@@ -10,4 +10,4 @@
 | 3 | Sample coding for Python | 🐠 [Simple algebra]()  🐬 [Vocabulary drills]()  🐳  [Pronuciation drills](https://github.com/ms624atyale/Scratch/blob/main/Markdown3_Text2Speech_ModifiedfromMK316.ipynb) |  
 
 
-# Good Job! Here is your rewards! Have fun! :icecream::tropical_drink::cake::apple::watermelon:
+# Have fun! :icecream::tropical_drink::cake::apple::watermelon:
